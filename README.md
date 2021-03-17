@@ -1,17 +1,22 @@
-
-# mytel-ip-blocked
-Boycott Myanmar Juntas' business
+# Boycott "MYTEL" Telcom
 
 ![mytel](boycott-mytel.jpg)
 
+Myanmar Juntas' business
+
+## Registrar
+
 | ASN | `AS136255` |
-|:---:|:------------|
-| Company | Telecom International Myanmar Co., Ltd |
+|:---:|:------------:|
+| Vendor | Telecom International Myanmar Co., Ltd |
 | Website | [irdmyanmar.gov.mm](http://irdmyanmar.gov.mm) |
+| Type | ISP |
+| Country | 🇲🇲 MM |
+| Region | Yangon |
 
-## RANGES OF IPs
+## Ranges of IP
 
-| IPv4 | No. of IPs |
+| IPv4 | IP (max) |
 |:----:|-----------:|
 | `103.85.104.0` - `103.85.107.0`  | 2,816 |
 | `117.18.228.0` - `117.18.231.0`  | 2,040 |
