@@ -1,4 +1,4 @@
-# Boycott "MYTEL" Telcom
+# Boycott "MYTEL"
 Myanmar Juntas' business
 
 ![mytel](docs/images/mytel-logo.jpg)
