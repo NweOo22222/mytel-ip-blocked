@@ -1,5 +1,8 @@
+
 # mytel-ip-blocked
 Boycott Myanmar Juntas' business
+
+![mytel](boycott-mytel.jpg)
 
 | ASN | `AS136255` |
 |:---:|:------------|
